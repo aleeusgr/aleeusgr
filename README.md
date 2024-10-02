@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I am Alex, a cybertramp, a founder of Tarax DAO and a co-founder of Intersect MBO.
+I am Alex. A hacker, a PT, a social entrepreneur.
 
-- 💻 I've been coding since I was a kid, starting with BASIC and Pascal.
-- 🌱 I’m currently learning Software Verification, Contemporary Mathematical Thinking and Ontology of Money.
-- 🤯 Fun fact: Money is pre-eminently a political category.
+- 💻 Started coding with BASIC and Pascal, started hacking on eeePC701 running Debian.
+- 🌱 I’m currently learning Formal Systems, nature of Conflict and Violence, and their connection to Governance.
+- 🤯 Fun fact: some say the Noosphere is driven by the discrepancies between shared narratives of concepts and personal interpretations of these narratives.
